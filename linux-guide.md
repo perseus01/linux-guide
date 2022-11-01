@@ -3,8 +3,8 @@
 #### Here's a list of useful resources for you to get started with Linux.
 
 **Start with this:**
-▫ [What is Linux?](https://www.youtube.com/watch?v=6gqLWTSz6ck)
-▫ [What distribution to choose?](https://distrochooser.de/en)
+- [What is Linux?](https://www.youtube.com/watch?v=6gqLWTSz6ck)
+- [What distribution to choose?](https://distrochooser.de/en)
 
 1. **There are 3 ways to use Linux in a desktop:**
    
