@@ -79,13 +79,17 @@
 8. **Websites:**
    
    - [DistroWatch](https://distrowatch.com/)
+         
          Check out different Linux distros.
    
    - [Arch Wiki](https://wiki.archlinux.org/)
+         
          The one stop solution for all arch and arch based distro users.
    
    - [Ask Ubuntu](https://askubuntu.com/)
+         
          Useful forum for Ubuntu and Ubuntu based distro users.
    
    - [It's FOSS](http://itsfoss.com/)
+         
          Articles about Linux and open-source software.
