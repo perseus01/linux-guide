@@ -25,13 +25,13 @@
    - [Guide](https://wiki.recalbox.com/en/tutorials/utilities/write-an-image/balena-etcher) for using [Balena Etcher](https://www.balena.io/etcher/) in a Windows/Linux/MacOS desktop. 
 
 3. **Installation guides for some popular Linux distributions:**
-- Ubuntu - [Article](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview) / [Video](https://www.youtube.com/watch?v=f_8cD4HFvhc)
+   - Ubuntu - [Article](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview) / [Video](https://www.youtube.com/watch?v=f_8cD4HFvhc)
 
-- Debian - [Article](https://www.debian.org/releases/stable/installmanual) / [Video](https://www.youtube.com/watch?v=P4J_99cS7Bg)
+   - Debian - [Article](https://www.debian.org/releases/stable/installmanual) / [Video](https://www.youtube.com/watch?v=P4J_99cS7Bg)
 
-- Arch Linux - [Article](https://arch.d3sox.me/) / Videos: [In-built script (easy)](https://www.youtube.com/watch?v=leQbSsu-7F4) & [Manually](https://www.youtube.com/watch?v=PQgyW10xD8s&t=8s)
+   - Arch Linux - [Article](https://arch.d3sox.me/) / Videos: [In-built script (easy)](https://www.youtube.com/watch?v=leQbSsu-7F4) & [Manually](https://www.youtube.com/watch?v=PQgyW10xD8s&t=8s)
 
-- Manjaro -  [Article](https://itsfoss.com/install-manjaro-linux/) / [Video](https://www.youtube.com/watch?v=dlPw4WtMMZ8)
+   - Manjaro -  [Article](https://itsfoss.com/install-manjaro-linux/) / [Video](https://www.youtube.com/watch?v=dlPw4WtMMZ8)
 4. **Linux Shells:**
 
    Shell is an environment in which we can run our commands, programs, and shell scripts. There are different flavors of a shell, just as there are different flavors of operating systems. Each flavor of shell has its own set of recognized commands and functions.
