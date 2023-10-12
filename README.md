@@ -34,7 +34,7 @@
    - Manjaro -  [Article](https://itsfoss.com/install-manjaro-linux/) / [Video](https://www.youtube.com/watch?v=dlPw4WtMMZ8)
 4. **Linux Shells:**
 
-   Shell is an environment in which we can run our commands, programs, and shell scripts. There are different flavors of a shell, just as there are different flavors of operating systems. Each flavor of shell has its own set of recognized commands and functions.
+   Shell is an environment in which we can run our commands, programs, and shell scripts. There are different flavors of a shell, just as there are different flavors of operating systems. Each flavor of shell has its own set of recognized commands and functions.[[1]](https://www.tutorialspoint.com/unix/unix-what-is-shell.htm)
 
 - [BASH (Bourne Again Shell)](https://opensource.com/resources/what-bash)
 
